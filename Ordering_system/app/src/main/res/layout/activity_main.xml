@@ -43,7 +43,7 @@
         />
 
     <TextView
-        android:id="@+id/beverage"
+        android:id="@+id/Meal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="飲料:無\n\n甜度:無\n\n冰塊:無"
